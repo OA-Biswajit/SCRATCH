@@ -1,0 +1,42 @@
+										SCRATCH-IDEATHONE
+									     -------------------
+
+About the field :-
+----------------
+whenever I enter into my room ,my room mates are watching youtube-shots or watching instagram reels and whole day laying on the bed
+
+Problem Now adays :-
+-----------------
+After the introduction of reels or shots childrens/peoples are more addicted with mobile more than before.
+These algorithims are set in such a way that if you watch one video,unknowingly you are going to waste 2 or 3 hour without knowing,
+because these apps will show you based on the reaction over the video.You would be watching the videos deeply with different emmotions,
+that's the reason why everyone are facing lazyness ,showing lack of intrest or feeling tired while dealing with other task they have. 
+ 
+Your Solutions:-
+--------------
+Create an softwire that will manage the uses of other apps.In that softwire you will select which app or which website you are restricted
+to use long time and it will ask to set the maximum time you want to use in.It will give 20 minute time to reset the time , if the time is
+more than 20 minute it will ask what you have done today .AI will verify your response or at nignt (at a perticular that you would have saved)
+you can respond to your work done list and then you can make changes to the settings.
+
+Competative Advantage
+---------------------
+
+*There are apps and softwires that can only alanyse your uses but there no app thats that force  stop other apps to use.
+*It will be liked by the Parents because it will help to monitor their child and take action in their absence. 
+*I will be make by ITER Student so, it is verified.
+*It will help to erase distraction.
+*This can be implemented one apps webs and IT can be implemented not only on Android but also in Windows ,Apple and Linux.
+
+Personal Details
+----------------
+
+-->Name: Biswajit kumar senapati
+
+-->Registration No: 2241019366
+
+-->Year: 1st
+
+-->Branch : Btech(Cse)
+
+-->Section: 2241042
